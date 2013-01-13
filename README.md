@@ -9,6 +9,6 @@ Features:
  * Hardware SPI breakout
  * FTDI ttl programming header
 
-![brd](raw/master/led_strip.brd.png)
+![brd](/raw/master/led_strip.brd.png)
 
-![sch](raw/master/led_strip.sch.png)
+![sch](/raw/master/led_strip.sch.png)
