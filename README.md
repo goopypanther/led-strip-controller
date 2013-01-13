@@ -3,6 +3,7 @@ https://www.adafruit.com/products/306
 or other cheap chinese knockoffs.
 
 Features:
+ * 5V power regulator
  * 16MHz Atmega168
  * Onboard microphone connected to ADC
  * Debug LED
