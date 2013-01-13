@@ -8,3 +8,7 @@ Features:
  * Debug LED
  * Hardware SPI breakout
  * FTDI ttl programming header
+
+![brd](raw.github.com/JeremyRuhland/led-strip-controller/master/led_strip.brd.png)
+
+![sch](raw.github.com/JeremyRuhland/led-strip-controller/master/led_strip.sch.png)
