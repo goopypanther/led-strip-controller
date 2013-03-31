@@ -3,12 +3,13 @@ https://www.adafruit.com/products/306
 or other cheap chinese knockoffs.
 
 Features:
+ * 5V power regulator
  * 16MHz Atmega168
  * Onboard microphone connected to ADC
  * Debug LED
  * Hardware SPI breakout
  * FTDI ttl programming header
 
-![brd](raw.github.com/JeremyRuhland/led-strip-controller/master/led_strip.brd.png)
+![brd](/JeremyRuhland/led-strip-controller/raw/master/led_strip.brd.png)
 
-![sch](raw.github.com/JeremyRuhland/led-strip-controller/master/led_strip.sch.png)
+![sch](/JeremyRuhland/led-strip-controller/raw/master/led_strip.sch.png)
