@@ -1,14 +1,19 @@
-Qty	Value	Device	Parts	
-1	LEDCHIPLED_1206	LED1	
-1	M02LOCK_LONGPADS	JP2	
-1	M04LONGPADS	JP1	
-2	0.1uf	C-USC1206	C1,C4	
-1	4.3uf	C-USC1206	C3	
-4	10k	R-US_R1206	R1,R2,R3,R4
-2	10uf	C-USC1206	C2,C5	
-1	16MHz	RESONATORSMD	Y1	
-1	FTDI_BASICPTH	FTDI_BASICPTH	JP3	
-1	MEGA8-AI	MEGA8-AI	IC2	
-1	MIC9.7MM	MIC9.7MM	U1	
-1	PTR1B1,27	PTR1B1,27	TP1	
-1	REG1117	REG1117	IC1	
+Partlist exported from /home/jeremy/Desktop/led_strip/led_strip.sch at 3/31/13 2:01 AM
+
+Assembly variant: 
+
+Qty Value         Device           Parts     
+1                 LEDCHIPLED_1206  LED1      
+1                 M02LOCK_LONGPADS JP2       
+1                 M04LONGPADS      JP1       
+3   0.1uf         C-USC1206        C1, C4, C6
+1   4.3uf         C-USC1206        C3        
+3   10k           R-US_R1206       R1, R3, R4
+2   10uf          C-USC1206        C2, C5    
+1   16MHz         RESONATORSMD     Y1        
+1   330           R-US_R1206       R2        
+1   FTDI_BASICPTH FTDI_BASICPTH    JP3       
+1   MEGA8-AI      MEGA8-AI         IC2       
+1   MIC9.7MM      MIC9.7MM         U1        
+1   PTR1B1,27     PTR1B1,27        TP1       
+1   REG1117       REG1117          IC1       

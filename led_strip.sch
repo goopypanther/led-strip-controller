@@ -8113,7 +8113,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="P+6" library="supply1" deviceset="VCC" device=""/>
 <part name="LED1" library="adafruit" deviceset="LED" device="CHIPLED_1206"/>
 <part name="GND2" library="sparkfun" deviceset="GND" device=""/>
-<part name="R2" library="adafruit" deviceset="R-US_" device="R1206" value="10k"/>
+<part name="R2" library="adafruit" deviceset="R-US_" device="R1206" value="330"/>
 <part name="GND19" library="sparkfun" deviceset="GND" device=""/>
 <part name="IC1" library="burr-brown" deviceset="REG1117" device=""/>
 <part name="C5" library="adafruit" deviceset="C-US" device="C1206" value="10uf"/>

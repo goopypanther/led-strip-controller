@@ -691,7 +691,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="33.895" y="4.395" size="0.8128" layer="25" font="vector" rot="R270"/>
 <attribute name="VALUE" x="30.085" y="5.145" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="R2" library="adafruit" package="R1206" value="10k" x="32.625" y="9" smashed="yes" rot="R90">
+<element name="R2" library="adafruit" package="R1206" value="330" x="32.625" y="9" smashed="yes" rot="R90">
 <attribute name="NAME" x="31.853" y="11.768" size="0.8128" layer="25" font="vector"/>
 <attribute name="VALUE" x="35.038" y="7.603" size="1.27" layer="27" rot="R90"/>
 </element>
